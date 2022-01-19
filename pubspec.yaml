@@ -12,7 +12,7 @@ dependencies:
   extra_pedantic: ^1.2.0
   flutter_map: ^0.14.0
   geojson:
-    git:
+   git:
       url: git://github.com/lutfiadysh/geodesy.git
   geopoint: ^1.0.0
   latlong2: ^0.8.0
