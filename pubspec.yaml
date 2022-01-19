@@ -12,7 +12,7 @@ dependencies:
   extra_pedantic: ^1.2.0
   flutter_map: ^0.14.0
   geojson: ^1.0.0
-  geopoint: ^0.8.0
+  geopoint: ^1.0.0
   latlong2: ^0.8.0
   pedantic: ^1.9.2
   rxdart: ^0.25.0
