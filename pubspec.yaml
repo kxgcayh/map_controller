@@ -15,7 +15,7 @@ dependencies:
    git:
       url: git://github.com/lutfiadysh/geojson.git
   geopoint: ^1.0.0
-  latlong2: ^0.8.0
+#   latlong2: ^0.8.0
   pedantic: ^1.9.2
   rxdart: ^0.25.0
 
