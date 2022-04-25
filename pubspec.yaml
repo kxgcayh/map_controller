@@ -11,7 +11,9 @@ dependencies:
     sdk: flutter
   extra_pedantic: ^1.2.0
   flutter_map: ^0.13.1
-  geojson: http://github.com/lutfiadysh/geojson
+  geojson: 
+    git:
+      url: http://github.com/lutfiadysh/geojson
   geopoint: ^1.0.0
 #   latlong2: ^0.8.0
   pedantic: ^1.9.2
