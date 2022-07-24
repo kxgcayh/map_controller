@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   # extra_pedantic: ^1.2.0
-  flutter_map: ^0.13.1
+  flutter_map: ^2.1.0
   geojson:
     git:
       url: http://github.com/lutfiadysh/geojson
