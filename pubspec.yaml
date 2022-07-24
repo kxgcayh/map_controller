@@ -4,20 +4,20 @@ homepage: https://github.com/synw/map_controller
 version: 0.9.0
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: '>=2.7.0 <3.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
   extra_pedantic: ^1.2.0
   flutter_map: ^0.13.1
-  geojson: 
+  geojson:
     git:
       url: http://github.com/lutfiadysh/geojson
   geopoint: ^1.0.0
-#   latlong2: ^0.8.0
+  #   latlong2: ^0.8.0
   pedantic: ^1.9.2
-  rxdart: ^0.25.0
+  rxdart: ^0.27.5
 
 dev_dependencies:
   flutter_test:
@@ -27,7 +27,6 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 # The following section is specific to Flutter.
 flutter:
-
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
